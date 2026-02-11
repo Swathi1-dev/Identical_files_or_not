@@ -1,0 +1,3 @@
+This text file and am just 
+checking if python can identify 
+me with my duplicate file 
